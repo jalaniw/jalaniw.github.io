@@ -2,30 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Jalani Williams</title>
-    <link>https://cs.cmu.edu/~jalaniw/</link>
+    <link>https://jalaniw.github.io/</link>
     <description>Recent content in About on Jalani Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://cs.cmu.edu/~jalaniw/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jalaniw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://cs.cmu.edu/~jalaniw/about/</link>
+      <link>https://jalaniw.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cs.cmu.edu/~jalaniw/about/</guid>
-      <description>About Me  I am a 4th year PhD student in Computer Science Department at CMU, and am advised by Weina Wang. Broadly-speaking, I&amp;rsquo;m interested in queueing theory and stochastic analysis. Right now, I&amp;rsquo;m a visiting student at the Simons Institute.
-Research Interest Publications  W. Wang, A. Gupta, J.Williams: Probing to minimize  </description>
+      <guid>https://jalaniw.github.io/about/</guid>
+      <description>About Me  I am a 4th year PhD student in the Computer Science Department at CMU, where I am advised by Weina Wang. Broadly-speaking, I&amp;rsquo;m interested in queueing theory and stochastic analysis. Right now, I&amp;rsquo;m a visiting student at the Simons Institute.
+Research Interest queueing theory, stochastic systems, approximation algorithms, reinforcement learning, applied probability
+Publications  Weina Wang, Anupam Gupta, Jalani K. Williams (random author order) ITCS, 2022.: Probing to minimize  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://cs.cmu.edu/~jalaniw/contact/</link>
+      <link>https://jalaniw.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cs.cmu.edu/~jalaniw/contact/</guid>
-      <description> Email: jalaniw (a.t) cs(dot)cmu[dot]edu   </description>
+      <guid>https://jalaniw.github.io/contact/</guid>
+      <description> Email: jalaniw (at) cs(dot)cmu[dot]edu   </description>
     </item>
     
   </channel>
